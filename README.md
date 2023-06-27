@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zukoonfire
 - 👀 I’m interested in a role of software Developer
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently learning the workings of Backend Developement
 - 📫 How to reach me 📧Prashantsinghstan@gmail.com
 
 <!---
