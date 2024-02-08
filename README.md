@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Zukoonfire
-- 👀 I’m interested in a role of software Developer
-- 🌱 I’m currently learning the workings of Backend Developement
-- 📫 How to reach me 📧Prashantsinghstan@gmail.com
-
-<!---
-Zukoonfire/Zukoonfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Hello! I'm passionate about leveraging technology to drive positive change. With a knack for problem-solving and a love for innovation, I enjoy tackling challenges head-on. As a Software Engineer, I'm dedicated to crafting practical solutions that make a real difference. Let's connect and collaborate on exciting projects! Feel free to reach out, and let's make an impact together.
